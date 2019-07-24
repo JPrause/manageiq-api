@@ -5,7 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 
-## Hammer-9
+## Unreleased as of Sprint 116 ending 2019-07-22
+
+### Added
+- Create dialog from template - generic endpoint [(#616)](https://github.com/ManageIQ/manageiq-api/pull/616)
+
+## Hammer-9 - Released 2019-07-23
 
 ### Fixed
 - Allow reconfigure vm on OSP provider over Centralized Administration [(#608)](https://github.com/ManageIQ/manageiq-api/pull/608)
